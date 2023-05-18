@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I loved tinkering my computer**
 
+- You can check my <a href="http://cedrickcantero.netlify.app" target="blank"> Porfolio</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/cedrick-cantero-755922161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cedrick-cantero-755922161" height="30" width="40" /></a>
