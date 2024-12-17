@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedrickcantero&label=Profile%20views&color=0e75b6&style=flat" alt="cedrickcantero" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **React, MEARN**
 
