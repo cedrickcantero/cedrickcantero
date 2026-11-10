@@ -6,7 +6,7 @@ I build and run production web apps end to end: schema, API, UI, CI, deployment,
 
 ---
 
-### Production work (client projects · private repos)
+### Production work (client projects · built solo · private repos)
 
 **[Play4Serve](https://play4serve.thecedrickgroup.top/)** — court booking & operations platform<br>
 Players book and pay for courts without an account; staff verify payments and run the venue from an admin console.<br>
