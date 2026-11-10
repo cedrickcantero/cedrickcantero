@@ -1,29 +1,39 @@
-# Hi, I'm Cedrick
+# Cedrick Cantero
 
-I'm a software engineer focused on building scalable, maintainable web applications and improving how products are designed, shipped, and evolved over time.
+**Full Stack Engineer · TypeScript · React / Next.js · Node.js · Supabase/Postgres**
 
-Most of my work is in modern JavaScript and TypeScript applications, especially across React, Next.js, Node.js, and full stack product development. I'm particularly interested in frontend architecture, performance optimization, developer experience, and turning complex systems into cleaner, more maintainable ones.
+I build full stack web products end to end: data model, API, UI, and deployment. I care most about clean architecture, maintainable code, and shipping things that work in production, not just on localhost.
 
-## About me
+---
 
-- I build products that are practical, fast, and designed to last
-- I like working across both frontend and backend, not just one layer
-- I'm interested in architecture, performance, and product thinking
-- I care about clean implementation, usability, and long-term code quality
+### Featured work
 
-## What you'll find here
+**[Smart Spend](https://github.com/cedrickcantero/smart-spend)** — personal finance platform
+Expenses, income, budgets, recurring payments, subscriptions, tax reports, and AI-generated spending insights.
+`Next.js App Router` `TypeScript` `Supabase (Postgres, Auth, Storage)` `SQL migrations` `Recharts` `shadcn/ui`
+- ~30 REST route handlers behind Supabase auth, plus an admin area (users, feedback, settings)
+- Versioned schema with SQL migrations and generated TypeScript types from the database
+- Feature work shipped through branches and pull requests
 
-- side projects and experiments
-- frontend and full stack builds
-- ideas I'm exploring
-- a snapshot of how I think and build as an engineer
+**[Restaurant Finder](https://github.com/cedrickcantero/restaurant-finder)** — LLM-powered search · [live demo](https://restaurant-finder-red.vercel.app)
+Turns a natural-language request ("cheap ramen open late near me") into a structured Foursquare Places API query.
+`Next.js 14` `TypeScript` `OpenRouter (DeepSeek)` `Foursquare API` `Tailwind CSS`
+- LLM response is cleaned and parsed into a structured JSON query, with explicit errors when the model returns malformed output
+- Server-side API route keeps keys off the client; documented request/response contract
 
-## Outside of code
+**[Pokédex](https://github.com/cedrickcantero/pokedex)** — search Pokémon by name, type, move, or item
+`JavaScript` `Docker Compose`
 
-I'm also into photography, content creation, and building things with intention, whether in software, visuals, or workflows.
+---
 
-## Links
+### Toolbox
 
-- Portfolio: [thecedrickgroup.top](https://thecedrickgroup.top/)
-- LinkedIn: [linkedin.com/in/cedrick-cantero-755922161](https://linkedin.com/in/cedrick-cantero-755922161)
-- Email: [cmcantero28@gmail.com](mailto:cmcantero28@gmail.com)
+**Languages** TypeScript, JavaScript, SQL
+**Frontend** React, Next.js, Tailwind CSS, Radix / shadcn/ui
+**Backend** Node.js, Express, Socket.IO, REST APIs
+**Data & infra** Supabase, PostgreSQL, Docker, Vercel
+**AI** LLM integration via OpenRouter, structured output parsing
+
+### Elsewhere
+
+[Portfolio](https://thecedrickgroup.top/) · [LinkedIn](https://linkedin.com/in/cedrick-cantero-755922161) · [Email](mailto:cmcantero28@gmail.com)
