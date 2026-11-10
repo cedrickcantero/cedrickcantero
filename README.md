@@ -8,7 +8,7 @@ I build full stack web products end to end: data model, API, UI, and deployment.
 
 ### Featured work
 
-**[Smart Spend](https://github.com/cedrickcantero/smart-spend)** — personal finance platform<br>
+**[Smart Spend](https://github.com/cedrickcantero/smart-spend)** — personal finance platform · [live demo](https://smart-spend-unique.vercel.app)<br>
 Expenses, income, budgets, recurring payments, subscriptions, tax reports, and AI-generated spending insights.<br>
 `Next.js App Router` `TypeScript` `Supabase (Postgres, Auth, Storage)` `SQL migrations` `Recharts` `shadcn/ui`
 - ~30 REST route handlers behind Supabase auth, plus an admin area (users, feedback, settings)
